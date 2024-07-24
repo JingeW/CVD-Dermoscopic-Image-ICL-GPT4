@@ -18,7 +18,7 @@ This repository contains code and data for performing Color Vision Deficiency-Ac
 
 ```
 .
-├── data                                 # Contains subdirectories for processed data
+├── data                                     # Contains subdirectories for processed data
 │   ├── all
 │   ├── all_resized
 │   ├── all_resized_brettel_protan_1
@@ -36,19 +36,19 @@ This repository contains code and data for performing Color Vision Deficiency-Ac
 │   ├── mm_resized_label_brettel_protan_1
 │   ├── mm_resized_label_brettel_deutan_1
 │   ├── mm_resized_label_brettel_tritan_1
-│   └── selected_images.xlsx            # Image names
-├── RAW                                 # Contains raw data downloaded from ISCI Archive
-├── result                              # Results from running API_calling will be stored here
+│   └── selected_images.xlsx                 # Image names
+├── RAW                                      # Contains raw data downloaded from ISCI Archive
+├── result                                   # Results from running API_calling will be stored here
 │   ├── 2_shot_brettel_protan_1         
 │   │   ├──rep 1
 │   │   └── ...
 │   ├── 2_shot_brettel_deutan_1
 │   └── ...
-├── CVD_classification_GPT.py           # Call OpenAI API for classification
-├── CVD_convertor.py                    # Convert original image to CVD simulated image
-├── data_labeling.py                    # Add label to the image for reference
-├── data_resizing.py                    # Resize the data with the original aspect ratio            
-├── data_selection.py                   # Select data from RAW       
+├── CVD_classification_GPT.py                # Call OpenAI API for classification
+├── CVD_convertor.py                         # Convert original image to CVD simulated image
+├── data_labeling.py                         # Add label to the image for reference
+├── data_resizing.py                         # Resize the data with the original aspect ratio            
+├── data_selection.py                        # Select data from RAW       
 └── README.md                           
 ```
 
