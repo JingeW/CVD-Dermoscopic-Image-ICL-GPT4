@@ -89,15 +89,15 @@ Melanoma example: ISIC_0046725
 
 ## Result:
 
-**Accuracy of GPT-4V for classifying dermoscopic images under various CVD simulations.** 
+- ### Accuracy of GPT-4V for classifying dermoscopic images under various CVD simulations.
 
 <img src='./Figs/Figure 1.jpg' width=900>
 
 *(A) Average classification accuracies of GPT-4V for non-simulated and CVD-simulated images (protanopia, deuteranopia, tritanopia). Error bars: standard deviations. \*: p < 0.05; \*\*: p < 0.01 (t-test; two-tail). N.S.: not significant. All experiments were in ten repeats. (B) Classification accuracy of GPT-4V following the application of the consensus strategy across the ten repeats for each image query. GPT-4o (version “gpt-4o-2024-05-13”) included for comparison.*
 
-GPT-4V adapted its interpretation on color-based findings to different CVD-simulations. Specifically, it did not mention red or pink colors in protanope and deuteranope simulations but associated these colors with a melanoma prediction in non-simulated images. In tritanopia simulations—characterized by prevalent pinkish hues—GPT-4V no longer treated pink as a melanoma feature.
+- ### Comparative analysis of the association between red/pink color and “melanoma” prediction in non-simulated and tritanopia-simulated images. 
 
-**Comparative analysis of the association between red/pink color and “melanoma” prediction in non-simulated and tritanopia-simulated images.** 
+GPT-4V adapted its interpretation on color-based findings to different CVD-simulations. Specifically, it did not mention red or pink colors in protanope and deuteranope simulations but associated these colors with a melanoma prediction in non-simulated images. In tritanopia simulations—characterized by prevalent pinkish hues—GPT-4V no longer treated pink as a melanoma feature.
 
 <img src='./Figs/Figure 2.jpg' width=900>
 
