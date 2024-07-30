@@ -59,7 +59,7 @@ All the dermoscopic images are downloaded from [ISIC Archive](https://www.isic-a
 
 ## Disclaimer
 This project is for academic research purposes only. The code in this repository is released under the MIT License.
-If you use the data provided, please cite the ISIC Archive.
+If you use the data provided, please cite the ISIC Archive.s
 - [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 - [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
 - [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -87,7 +87,7 @@ Melanoma example: ISIC_0046725
 5. Call API:
    - run *python CVD_classification_GPT.py --[options]*
 
-## Result:
+## Results:
 
 - ### Accuracy of GPT-4V for classifying dermoscopic images under various CVD simulations.
 
