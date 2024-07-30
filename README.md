@@ -93,7 +93,7 @@ Melanoma example: ISIC_0046725
 
 <img src='./Figs/Figure 1.jpg' width=900>
 
-*(A) Average classification accuracies of GPT-4V for non-simulated and CVD-simulated images (protanopia, deuteranopia, tritanopia). Error bars: standard deviations. \*: p < 0.05; \*\*: p < 0.01 (t-test; two-tail). N.S.: not significant. All experiments were in ten repeats. (B) Classification accuracy of GPT-4V following the application of the consensus strategy across the ten repeats for each image query. GPT-4o (version “gpt-4o-2024-05-13”) included for comparison.*
+*(A) Average classification accuracies of GPT-4V for non-simulated and CVD-simulated images (protanopia, deuteranopia, tritanopia). Error bars: standard deviations. \*: p < 0.05; \*\*: p < 0.01 (t-test; two-tail). N.S.: not significant. All experiments were in ten repeats. (B) Classification accuracy of GPT-4V following the application of the consensus strategy across the ten repeats for each image query. GPT-4o included for comparison.*
 
 - ### Comparative analysis of the association between red/pink color and “melanoma” prediction in non-simulated and tritanopia-simulated images. 
 
