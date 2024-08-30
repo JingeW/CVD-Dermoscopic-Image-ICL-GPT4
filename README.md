@@ -3,6 +3,8 @@
 
 This repository contains code and data for performing Color Vision Deficiency-Accommodated Dermoscopic Classification with GPT-4V.
 
+Please find the detailed response of the GPT model form [Mendeley Data](doi.org/10.17632/32gr2rxwjh.2)
+
 <img src='./Figs/intro.jpg' width=900>
 
 ## Requirements
